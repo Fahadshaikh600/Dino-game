@@ -1,3 +1,5 @@
+// This code is wrote by Fahad shaikh
+
 let character = document.querySelector(".character");
 let obstacle = document.querySelector(".obstacle");
 let gameOver = document.querySelector(".gameOver");
