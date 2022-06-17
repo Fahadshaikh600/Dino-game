@@ -79,3 +79,26 @@ body {
   right: 0px;
   text-align: center;
 } */
+/* ^ */
+/* | */
+
+/* I don't know what is it */
+
+#play {
+  position: absolute;
+  top: 50vh;
+  right: 46.5vw;
+  transition: all ease-in 0.3s;
+}
+
+#reload {
+  position: absolute;
+  top: 50vh;
+  right: 46.5vw;
+  display: none;
+  transition: all ease-in 0.3s;
+}
+
+.display-n {
+  display: none;
+}
